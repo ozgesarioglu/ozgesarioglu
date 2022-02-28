@@ -6,8 +6,6 @@
 ### ⚡ For this, I try to learn some programming languages. I'm trying to improve myself in Java, Python, R languages.
 
 
-Skills: 
-PYTHON /JAVA / R / SQL / SPSS
 
 ### 🌱 I’m currently learning Java 
 ### 📫 How to reach me: https://www.linkedin.com/in/ozgesarioglu/ 
