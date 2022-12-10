@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozgesarioglu&label=Profile%20views&color=0e75b6&style=flat" alt="ozgesarioglu" /> </p>
 
 - 🔭
-Interested in **data science** and **software development**
+Interested in **data science**
 
 - 🌱 I am a graduate of **statistics and very curious about data science, machine learning and artificial intelligence.**
 
